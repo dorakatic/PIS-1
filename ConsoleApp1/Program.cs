@@ -10,5 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello World 2");
         }
     }
-}
 
+    class NewClass {
+        int a = 2;
+    }
+}
